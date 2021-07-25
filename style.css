@@ -178,15 +178,14 @@ h1 {
 }
 h2 { font-size: 30px !important; }
 h1 a { color: var(--color-primary) !important; }
-.notion-semantic-string .link { border: none !important; }
+.notion-semantic-string .link { 
+    border: none !important; 
+    opacity: 1 !important;
+}
 .notion-heading { padding: 0 !important; }
 
 h2 a.notion-link{
     color: var(--color-primary) !important; 
-}
-
-.notion-semantic-string .link{
-    opacity: 1 !important;
 }
 
 .notion-breadcrumb__divider,
