@@ -383,7 +383,7 @@ p, ul, ol {
     .super-content { padding-top: 40px !important; }
     .notion-quote {
         padding: 0 var(--padding-right) 20px var(--padding-left) !important;
-        background: #000000 !important;
+        background: rgba(0, 0, 0, 0.5) !important;
         justify-content: flex-start !important;
         top: var(--navbar-height) !important;
         font-size: 18px !important;
