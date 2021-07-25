@@ -185,6 +185,10 @@ h2 a.notion-link{
     color: var(--color-primary) !important; 
 }
 
+.notion-semantic-string .link{
+    opacity: 1 !important;
+}
+
 .notion-breadcrumb__divider,
 .notion-navbar__title,
 .notion-toggle,
